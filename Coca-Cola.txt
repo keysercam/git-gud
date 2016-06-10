@@ -1,0 +1,1 @@
+I am attempting to create a text file.  Here is what it says 'I like Coca-Cola'
